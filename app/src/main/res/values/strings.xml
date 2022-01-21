@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="red">червоний</string>
+    <string name="blue">блакитний</string>
+    <string name="yellow">жовтий</string>
+    <string name="_100_200">100-200грн</string>
+    <string name="_200_500">200-500грн</string>
+    <string name="_500_1000">500-1000грн</string>
+    <string name="ok">Ok</string>
+    <string name="open">Відкрити</string>
+</resources>
